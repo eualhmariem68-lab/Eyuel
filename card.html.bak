@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>buisness card (backup)</title>
+	<link rel="stylesheet" href="card.css">
+</head>
+<body>
+	<!-- Backup of previous card.html content -->
+	<div class="card">
+		<div class="img">
+			<img src="eyu.png" alt="buisness card image">
+		</div>
+		<h1>Eyuel hailemariyam</h1>
+		<p>Web Developer</p>
+		<h3>ethiopia ,gondar</h3>
+	</div>
+</body>
+</html>
